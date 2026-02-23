@@ -1,7 +1,7 @@
 title: Manish Oza
 description: Assistant Professor, Faculty of Law, University of Western Ontario
 url: "https://www.manishoza.ca"
-baseurl: ""
+baseurl: "/manishoza.ca"
 
 # Build settings
 markdown: kramdown
