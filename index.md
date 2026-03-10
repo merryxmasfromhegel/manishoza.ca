@@ -15,11 +15,15 @@ title: Manish Oza
 
 [The personality of public authorities](/assets/pdf/PPA.pdf), (2024) Law and Philosophy [&rarr;](https://link.springer.com/article/10.1007/s10982-024-09499-z)
 
+[Tort claims against public authorities](https://albertalawreview.com/index.php/ALR/article/view/2709/2656), (2022) Alberta Law Review (with M Rowe)
+
 ### Legal reasoning
 
 [Can we legally revise the highest legal rule?](https://doi.org/10.1017/S135232522510075X), (2025) Legal Theory
 
 [Fictions in legal reasoning](https://www.cambridge.org/core/journals/dialogue-canadian-philosophical-review-revue-canadienne-de-philosophie/article/fictions-in-legal-reasoning/A32F7A74C17C894CD1C19BF5A94282C6), (2023) Dialogue
+
+[Structural analysis and the Canadian constitution](https://cbr.cba.org/index.php/cbr/article/view/4814/4541), (2023) Canadian Bar Review (with M Rowe) 
 
 ### Logic, rationality and thought
 
@@ -33,15 +37,11 @@ title: Manish Oza
 [The value of thinking and the normativity of logic](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/value-of-thinking-and-the-normativity-of-logic.pdf?c=phimp;idno=3521354.0020.025;format=pdf)
 , (2020) Philosophers' Imprint
 
-### Doctrinal papers, treatise chapters, reports
+### Treatise chapters and reports
 
 Advocacy and the Best Interests of Charitable Corporations, (forthcoming) [Law Commission of Canada](https://www.canada.ca/en/law-commission-canada/projects/research-streams.html) (with B Miller)
 
 Intention to contract, (2024) in *Fridman's The Law of Contract in Canada*
-
-[Structural analysis and the Canadian constitution](https://cbr.cba.org/index.php/cbr/article/view/4814/4541), (2023) Canadian Bar Review (with M Rowe) 
-
-[Tort claims against public authorities](https://albertalawreview.com/index.php/ALR/article/view/2709/2656), (2022) Alberta Law Review (with M Rowe)
 
 ### Book reviews
 
